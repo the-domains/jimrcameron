@@ -4,11 +4,11 @@
         <description><![CDATA[JimRCameron]]></description>
         <link>https://thegrid.ai/jimrcameron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 21:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 21:37:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jimrcameron/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hector]]></title>
-            <description><![CDATA[<article><h1>Hector</h1><p>Hector chilling</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ccec0c43db4d8e35bcba5bf2928260302e78128.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hector</h1><p>Hector chilling</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f5ed459139afa2a04303685468ad10a938556fd.jpg"></article>]]></description>
             <link>https://thegrid.ai/jimrcameron/hector/index.html</link>
             <guid isPermaLink="false">b3a379d5-e354-480c-af71-fa5106a3ca94</guid>
             <pubDate>Sun, 03 Jan 2016 21:35:31 GMT</pubDate>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/jimrcameron/aab15421-0e3c-4e3a-9c4b-de4c0545c150/index.html</link>
             <guid isPermaLink="false">aab15421-0e3c-4e3a-9c4b-de4c0545c150</guid>
             <pubDate>Sun, 03 Jan 2016 21:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f6c243-23d0-4af6-8c89-78701a2230ee.jpg">]]></description>
-            <link>https://thegrid.ai/jimrcameron/247c6a81-ae4d-4a34-9ed6-c47aa6f3d91d/index.html</link>
-            <guid isPermaLink="false">247c6a81-ae4d-4a34-9ed6-c47aa6f3d91d</guid>
-            <pubDate>Sun, 03 Jan 2016 21:35:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
