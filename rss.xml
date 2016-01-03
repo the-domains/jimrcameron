@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JimRCameron]]></title>
         <description><![CDATA[JimRCameron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jimrcameron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 21:01:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 21:09:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jimrcameron/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f4270ef-9981-4447-a250-af544f12895b.jpg">]]></description>
-            <link>undefinedaab15421-0e3c-4e3a-9c4b-de4c0545c150/index.html</link>
+            <title><![CDATA[Jim Cameron]]></title>
+            <description><![CDATA[<article><h1>Jim Cameron</h1><p>Plop ! Me and the Bumpkin in Morroco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a733f6e155055b0af38fb7ab04d0e946e000bb3a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jimrcameron/aab15421-0e3c-4e3a-9c4b-de4c0545c150/index.html</link>
             <guid isPermaLink="false">aab15421-0e3c-4e3a-9c4b-de4c0545c150</guid>
-            <pubDate>Sun, 03 Jan 2016 21:01:40 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 21:08:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
