@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.theguardian.com'
   name: the Guardian
-  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
   domain: www.theguardian.com
+  url: 'http://www.theguardian.com'
+  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
 keywords:
   - tez
   - bernab
@@ -29,13 +29,15 @@ app_links:
     app_name: The Guardian
 isBasedOnUrl: 'http://www.theguardian.com/football/2016/jan/04/rafael-benitez-sacked-real-madrid-manager-zinedine-zidane'
 title: Rafael Benítez on verge of being sacked by Real Madrid - reports
-datePublished: '2016-01-04T20:04:28.282Z'
-dateModified: '2016-01-04T20:02:04.256Z'
+datePublished: '2016-01-04T20:39:37.466Z'
+dateModified: '2016-01-04T20:27:25.266Z'
 sourcePath: _posts/2016-01-04-rafael-benitez-on-verge-of-being-sacked-by-real-madrid-rep.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
