@@ -1,4 +1,19 @@
-analytics: {}
+name: JimRCameron
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#1B2429'
@@ -8,11 +23,6 @@ color:
     - '#C1B5B5'
   brandStrength: 1
   lightness: 0.5625
-  rhythmicContrast: 0.8816362938378006
   saturation: 0.0625
-cta: {}
-layout_spectrum: 1
-name: JimRCameron
-opengraph: {}
+  rhythmicContrast: 0.8816362938378006
 purpose: []
-typography_spectrum: 1
